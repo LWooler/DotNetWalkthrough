@@ -1,0 +1,6 @@
+C:\Users\Lntinfotech\Documents\Repos\DotNetWalkthrough\bin\Debug\net5.0\publish\DotNetWalkthrough.exe
+C:\Users\Lntinfotech\Documents\Repos\DotNetWalkthrough\bin\Debug\net5.0\publish\DotNetWalkthrough.dll
+C:\Users\Lntinfotech\Documents\Repos\DotNetWalkthrough\bin\Debug\net5.0\publish\DotNetWalkthrough.deps.json
+C:\Users\Lntinfotech\Documents\Repos\DotNetWalkthrough\bin\Debug\net5.0\publish\DotNetWalkthrough.runtimeconfig.json
+C:\Users\Lntinfotech\Documents\Repos\DotNetWalkthrough\bin\Debug\net5.0\publish\DotNetWalkthrough.pdb
+C:\Users\Lntinfotech\Documents\Repos\DotNetWalkthrough\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
