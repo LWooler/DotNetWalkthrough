@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dS/IQ6/sG52mE+YYDEHJGp76qcnOBo1lpgRq6PKadMbhRFrNpoDsCFnwoTZZ30jjWjEPp9jEJUkjyQCjDtCYcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lntinfotech\\Documents\\Repos\\DotNetWalkthrough\\DotNetWalkthrough.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lntinfotech\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
